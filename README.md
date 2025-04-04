@@ -14,9 +14,4 @@ This repo is where I store some scripts, allowing me to quickly install these us
    - [Chrome Download Link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox Download Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
-2. Click on the script link you want (those `youtube-ll-removal.js` files in the repo)
-
-3. Tampermonkey will automatically open an installation window, just click "Install"!
-
-4. Awesome! The script is installed and ready to use!
-
+2. Just copy the script content and paste it into Tampermonkey.
